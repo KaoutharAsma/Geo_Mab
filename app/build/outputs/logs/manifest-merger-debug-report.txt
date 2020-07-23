@@ -1,0 +1,403 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\54421e83e6f68858a3b5b36c00593074\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\fac6ecaa626598217d7deaf3cd5431f3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.amitshekhar.android:debug-db:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1f06ca259429f4120c8c3cc310415c53\AndroidManifest.xml:2:1-19:12
+MERGED from [com.github.denzcoskun:ImageSlideshow:0.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\8d4b577be8d50815770d1c80b0bdd6a9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.yuzumone:ExpandableTextView:0.2.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\93ecc7c4ac813c670e5899602cf45053\AndroidManifest.xml:2:1-17:12
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\19e2df3c8a7a18103a8802e8071e983d\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.mohan-dev1248:PosterSlider:1.0.2] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\27ee5f6bb493283af2cac4c772a8befd\AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\b89819b4915ecebac539ced02ff94a0c\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\04e66e7bafee0c08b21e0a017e66e120\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c8370bb51f6deb0dba984f35eb08ff61\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\506e23a99475d0c0c764d14dc6b64c75\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\6abb17f61c59c5dcda173fbfc6f55076\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha01] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\64e325ba2a3082859e32f9ac81109609\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\fda7aa3fe263dc09a56395a99a3d639f\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\b307e3af9393b7ec0ef4c5adc45656b5\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\e76ed7456d540c799710f4d8ca00eb09\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\03c2e6a0d058a8a250b80fc803aaecc7\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\8d7b51fc6b92546df51fce8bbdb7b1a6\AndroidManifest.xml:2:1-13:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\3bcbd9fdd6aeecd8833b32351a81b894\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\3d6e8c811db2784cec8399454c61de5a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\8ef3beb63de05aa626f5cd083d1c82fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\eea02ccea9a1109a62ee659100ea4790\AndroidManifest.xml:17:1-25:12
+MERGED from [com.amitshekhar.android:debug-db-base:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\12b818bbeb2a1f684247996625550314\AndroidManifest.xml:20:1-32:12
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\69b2894cf8745aec72a85bb82f5fc7f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\2da8caf783238f1c167aab7c9770a6a8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c5c14db63f2f4aecd0c14312192d1793\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c58e935cc2d9b1bcdaa60251ffb9404f\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\a7dcbc6068302833ef7f6253ec1c7dfa\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\ece6d7ed0a6444d09429b610518378dd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\03692b9dc17e72e4b9109438080e1095\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha01] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5b6924edc183aa145d489fecc46609f6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1155b7ec4882a47734ea420fc2b2de02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c68ee4d3e9c3243c2043aabc5669f8ea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\af72a2ae706d7815fe68e21a617f1cde\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\53400a85c1fd2ea4a8c26605681d7131\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\58982f3415a7da6c480609f267887268\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\51e083847b41e6657f4e9ad5fe1f41cf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\3d617cc22fabf36504416bd275db0a55\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5eb87feae9102c232bb54a27e2869106\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\e95c08ad4698df57912ba7a1ec827043\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\381351577d574d322417c92a3ea17972\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\ab6a678aa05b9870b0ebb661ac96b499\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\f5049cdd22a00a120aaca656b77a3d4c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\9852cf42fe42a165b1563465392a6126\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\998fb90f21f48f4b7d58d7e6bbaddd14\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.4.0-alpha01] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\edcc048f05f35e48634b510ad839ae78\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5277ec07ce8a0ba762cb9577fd7f3d65\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\2b72b6ad2b0c41c9dbc0fb5a27466660\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha03] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\46c5b8d2acdb73e818406e5647a78064\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5df72bca0c4837f39fae00b06249e14e\AndroidManifest.xml:17:1-27:12
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\10285c6d1c2a61cf0ceb53e8fd64ae40\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\6c19e606a8d6b11567fec7ee3e41abad\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1ca123ebd8600abb83e583e1f567f7a2\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\49c9d34c11eb64701b4899896f2a119a\AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\9685bbce80d0c9a9fcc3182b658892e8\AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5c6cf546f52f6fd45d4911329cca02ac\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\6f06332256b10198e361f4ba491705b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha03] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\4ee24d40760cf2c598f956cf7b7abac2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\a350c1b6a34e4874c8714b3a7fc41d8f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\7b0353afe86cf3b70cd717281e6555aa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\8b9d30eadfc68c43810f289deac8aa40\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\617e60b87b906b6557a4ebcf729ee15a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\a0a27f0e6f59977534c15bee751dba34\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\0578cf4fd0fd685c39c74aad3148c171\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\6ce2a00661ace2ba2a226d3cd025b4b5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\86eb7e7d3d19f467b8973108467cff17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1ca0b10a122395342a5667ef23426147\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\2a28df6c6d35dd86f5375a68688a1982\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\9eaaef98bd75191294bfb3a09d0d04d8\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\25c394cf0428364d5bb16f5e59fb821d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\ebf8e41568596fdb7f204f27dd01a0ef\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\a075e6dd8aa436951706bdcfdebbbfc0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\e53dc7268eb5b766abd9991980702d97\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\eb3cb541bf14e09173af231846a010d8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\958d8d38c6d5874ec5996cab58c85a63\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\0b1cfebe50df3fc040109e490c5fe1da\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:3:58-86
+		INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\19e2df3c8a7a18103a8802e8071e983d\AndroidManifest.xml:11:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\19e2df3c8a7a18103a8802e8071e983d\AndroidManifest.xml:11:5-67
+MERGED from [com.amitshekhar.android:debug-db-base:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\12b818bbeb2a1f684247996625550314\AndroidManifest.xml:29:5-67
+MERGED from [com.amitshekhar.android:debug-db-base:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\12b818bbeb2a1f684247996625550314\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:6:5-78
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\19e2df3c8a7a18103a8802e8071e983d\AndroidManifest.xml:12:5-79
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\19e2df3c8a7a18103a8802e8071e983d\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1f06ca259429f4120c8c3cc310415c53\AndroidManifest.xml:11:5-17:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1f06ca259429f4120c8c3cc310415c53\AndroidManifest.xml:11:5-17:19
+MERGED from [com.github.yuzumone:ExpandableTextView:0.2.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\93ecc7c4ac813c670e5899602cf45053\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.yuzumone:ExpandableTextView:0.2.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\93ecc7c4ac813c670e5899602cf45053\AndroidManifest.xml:11:5-15:19
+MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\b89819b4915ecebac539ced02ff94a0c\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\b89819b4915ecebac539ced02ff94a0c\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\04e66e7bafee0c08b21e0a017e66e120\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\04e66e7bafee0c08b21e0a017e66e120\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c8370bb51f6deb0dba984f35eb08ff61\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c8370bb51f6deb0dba984f35eb08ff61\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\506e23a99475d0c0c764d14dc6b64c75\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\506e23a99475d0c0c764d14dc6b64c75\AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\b307e3af9393b7ec0ef4c5adc45656b5\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\b307e3af9393b7ec0ef4c5adc45656b5\AndroidManifest.xml:9:5-20
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\03c2e6a0d058a8a250b80fc803aaecc7\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\03c2e6a0d058a8a250b80fc803aaecc7\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\8d7b51fc6b92546df51fce8bbdb7b1a6\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\8d7b51fc6b92546df51fce8bbdb7b1a6\AndroidManifest.xml:11:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\3bcbd9fdd6aeecd8833b32351a81b894\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\3bcbd9fdd6aeecd8833b32351a81b894\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\eea02ccea9a1109a62ee659100ea4790\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\eea02ccea9a1109a62ee659100ea4790\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\2da8caf783238f1c167aab7c9770a6a8\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\2da8caf783238f1c167aab7c9770a6a8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c5c14db63f2f4aecd0c14312192d1793\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c5c14db63f2f4aecd0c14312192d1793\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c58e935cc2d9b1bcdaa60251ffb9404f\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c58e935cc2d9b1bcdaa60251ffb9404f\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.4.0-alpha01] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\edcc048f05f35e48634b510ad839ae78\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.4.0-alpha01] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\edcc048f05f35e48634b510ad839ae78\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5277ec07ce8a0ba762cb9577fd7f3d65\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5277ec07ce8a0ba762cb9577fd7f3d65\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5df72bca0c4837f39fae00b06249e14e\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5df72bca0c4837f39fae00b06249e14e\AndroidManifest.xml:24:5-25:19
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\10285c6d1c2a61cf0ceb53e8fd64ae40\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\10285c6d1c2a61cf0ceb53e8fd64ae40\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\6c19e606a8d6b11567fec7ee3e41abad\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\6c19e606a8d6b11567fec7ee3e41abad\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1ca123ebd8600abb83e583e1f567f7a2\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1ca123ebd8600abb83e583e1f567f7a2\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\e53dc7268eb5b766abd9991980702d97\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\e53dc7268eb5b766abd9991980702d97\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.4.0-alpha01] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\edcc048f05f35e48634b510ad839ae78\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:13:13-39
+	android:label
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:11:13-45
+	tools:ignore
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:15:49-88
+	android:roundIcon
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:12:13-58
+	tools:targetApi
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:15:89-108
+	android:icon
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:10:13-40
+	android:allowBackup
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:9:13-39
+	android:theme
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:14:13-44
+	android:usesCleartextTraffic
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:15:13-48
+activity#com.example.geomab.ui.Wikipedia
+ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:16:9-17:20
+	android:name
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:16:19-47
+activity#com.example.geomab.ui.CountryDetails
+ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:18:9-19:20
+	android:name
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:18:19-52
+activity#com.example.geomab.ui.ListOfCountries
+ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:20:9-21:20
+	android:name
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:20:19-53
+activity#com.example.geomab.ui.MainActivity
+ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:22:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\54421e83e6f68858a3b5b36c00593074\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\54421e83e6f68858a3b5b36c00593074\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\fac6ecaa626598217d7deaf3cd5431f3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\fac6ecaa626598217d7deaf3cd5431f3\AndroidManifest.xml:22:5-44
+MERGED from [com.amitshekhar.android:debug-db:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1f06ca259429f4120c8c3cc310415c53\AndroidManifest.xml:7:5-9:41
+MERGED from [com.amitshekhar.android:debug-db:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1f06ca259429f4120c8c3cc310415c53\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.denzcoskun:ImageSlideshow:0.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\8d4b577be8d50815770d1c80b0bdd6a9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.denzcoskun:ImageSlideshow:0.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\8d4b577be8d50815770d1c80b0bdd6a9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yuzumone:ExpandableTextView:0.2.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\93ecc7c4ac813c670e5899602cf45053\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yuzumone:ExpandableTextView:0.2.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\93ecc7c4ac813c670e5899602cf45053\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\19e2df3c8a7a18103a8802e8071e983d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\19e2df3c8a7a18103a8802e8071e983d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mohan-dev1248:PosterSlider:1.0.2] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\27ee5f6bb493283af2cac4c772a8befd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mohan-dev1248:PosterSlider:1.0.2] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\27ee5f6bb493283af2cac4c772a8befd\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\b89819b4915ecebac539ced02ff94a0c\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\b89819b4915ecebac539ced02ff94a0c\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\04e66e7bafee0c08b21e0a017e66e120\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\04e66e7bafee0c08b21e0a017e66e120\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c8370bb51f6deb0dba984f35eb08ff61\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c8370bb51f6deb0dba984f35eb08ff61\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\506e23a99475d0c0c764d14dc6b64c75\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\506e23a99475d0c0c764d14dc6b64c75\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\6abb17f61c59c5dcda173fbfc6f55076\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\6abb17f61c59c5dcda173fbfc6f55076\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha01] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\64e325ba2a3082859e32f9ac81109609\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha01] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\64e325ba2a3082859e32f9ac81109609\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\fda7aa3fe263dc09a56395a99a3d639f\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\fda7aa3fe263dc09a56395a99a3d639f\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\b307e3af9393b7ec0ef4c5adc45656b5\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\b307e3af9393b7ec0ef4c5adc45656b5\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\e76ed7456d540c799710f4d8ca00eb09\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\e76ed7456d540c799710f4d8ca00eb09\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\03c2e6a0d058a8a250b80fc803aaecc7\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\03c2e6a0d058a8a250b80fc803aaecc7\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\8d7b51fc6b92546df51fce8bbdb7b1a6\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\8d7b51fc6b92546df51fce8bbdb7b1a6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\3bcbd9fdd6aeecd8833b32351a81b894\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\3bcbd9fdd6aeecd8833b32351a81b894\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\3d6e8c811db2784cec8399454c61de5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\3d6e8c811db2784cec8399454c61de5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\8ef3beb63de05aa626f5cd083d1c82fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\8ef3beb63de05aa626f5cd083d1c82fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\eea02ccea9a1109a62ee659100ea4790\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\eea02ccea9a1109a62ee659100ea4790\AndroidManifest.xml:20:5-44
+MERGED from [com.amitshekhar.android:debug-db-base:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\12b818bbeb2a1f684247996625550314\AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:debug-db-base:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\12b818bbeb2a1f684247996625550314\AndroidManifest.xml:25:5-27:41
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\69b2894cf8745aec72a85bb82f5fc7f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\69b2894cf8745aec72a85bb82f5fc7f4\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\2da8caf783238f1c167aab7c9770a6a8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\2da8caf783238f1c167aab7c9770a6a8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c5c14db63f2f4aecd0c14312192d1793\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c5c14db63f2f4aecd0c14312192d1793\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c58e935cc2d9b1bcdaa60251ffb9404f\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c58e935cc2d9b1bcdaa60251ffb9404f\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\a7dcbc6068302833ef7f6253ec1c7dfa\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\a7dcbc6068302833ef7f6253ec1c7dfa\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\ece6d7ed0a6444d09429b610518378dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\ece6d7ed0a6444d09429b610518378dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\03692b9dc17e72e4b9109438080e1095\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\03692b9dc17e72e4b9109438080e1095\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha01] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5b6924edc183aa145d489fecc46609f6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha01] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5b6924edc183aa145d489fecc46609f6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1155b7ec4882a47734ea420fc2b2de02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1155b7ec4882a47734ea420fc2b2de02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c68ee4d3e9c3243c2043aabc5669f8ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\c68ee4d3e9c3243c2043aabc5669f8ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\af72a2ae706d7815fe68e21a617f1cde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\af72a2ae706d7815fe68e21a617f1cde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\53400a85c1fd2ea4a8c26605681d7131\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\53400a85c1fd2ea4a8c26605681d7131\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\58982f3415a7da6c480609f267887268\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\58982f3415a7da6c480609f267887268\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\51e083847b41e6657f4e9ad5fe1f41cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\51e083847b41e6657f4e9ad5fe1f41cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\3d617cc22fabf36504416bd275db0a55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\3d617cc22fabf36504416bd275db0a55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5eb87feae9102c232bb54a27e2869106\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5eb87feae9102c232bb54a27e2869106\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\e95c08ad4698df57912ba7a1ec827043\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\e95c08ad4698df57912ba7a1ec827043\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\381351577d574d322417c92a3ea17972\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\381351577d574d322417c92a3ea17972\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\ab6a678aa05b9870b0ebb661ac96b499\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\ab6a678aa05b9870b0ebb661ac96b499\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\f5049cdd22a00a120aaca656b77a3d4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\f5049cdd22a00a120aaca656b77a3d4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\9852cf42fe42a165b1563465392a6126\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\9852cf42fe42a165b1563465392a6126\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\998fb90f21f48f4b7d58d7e6bbaddd14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\998fb90f21f48f4b7d58d7e6bbaddd14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.4.0-alpha01] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\edcc048f05f35e48634b510ad839ae78\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.4.0-alpha01] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\edcc048f05f35e48634b510ad839ae78\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5277ec07ce8a0ba762cb9577fd7f3d65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5277ec07ce8a0ba762cb9577fd7f3d65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\2b72b6ad2b0c41c9dbc0fb5a27466660\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\2b72b6ad2b0c41c9dbc0fb5a27466660\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha03] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\46c5b8d2acdb73e818406e5647a78064\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha03] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\46c5b8d2acdb73e818406e5647a78064\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5df72bca0c4837f39fae00b06249e14e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5df72bca0c4837f39fae00b06249e14e\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\10285c6d1c2a61cf0ceb53e8fd64ae40\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\10285c6d1c2a61cf0ceb53e8fd64ae40\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\6c19e606a8d6b11567fec7ee3e41abad\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\6c19e606a8d6b11567fec7ee3e41abad\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1ca123ebd8600abb83e583e1f567f7a2\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1ca123ebd8600abb83e583e1f567f7a2\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\49c9d34c11eb64701b4899896f2a119a\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\49c9d34c11eb64701b4899896f2a119a\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\9685bbce80d0c9a9fcc3182b658892e8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\9685bbce80d0c9a9fcc3182b658892e8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5c6cf546f52f6fd45d4911329cca02ac\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5c6cf546f52f6fd45d4911329cca02ac\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\6f06332256b10198e361f4ba491705b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\6f06332256b10198e361f4ba491705b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha03] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\4ee24d40760cf2c598f956cf7b7abac2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha03] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\4ee24d40760cf2c598f956cf7b7abac2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\a350c1b6a34e4874c8714b3a7fc41d8f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\a350c1b6a34e4874c8714b3a7fc41d8f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\7b0353afe86cf3b70cd717281e6555aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\7b0353afe86cf3b70cd717281e6555aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\8b9d30eadfc68c43810f289deac8aa40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\8b9d30eadfc68c43810f289deac8aa40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\617e60b87b906b6557a4ebcf729ee15a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\617e60b87b906b6557a4ebcf729ee15a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\a0a27f0e6f59977534c15bee751dba34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\a0a27f0e6f59977534c15bee751dba34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\0578cf4fd0fd685c39c74aad3148c171\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\0578cf4fd0fd685c39c74aad3148c171\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\6ce2a00661ace2ba2a226d3cd025b4b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\6ce2a00661ace2ba2a226d3cd025b4b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\86eb7e7d3d19f467b8973108467cff17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\86eb7e7d3d19f467b8973108467cff17\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1ca0b10a122395342a5667ef23426147\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1ca0b10a122395342a5667ef23426147\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\2a28df6c6d35dd86f5375a68688a1982\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\2a28df6c6d35dd86f5375a68688a1982\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\9eaaef98bd75191294bfb3a09d0d04d8\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\9eaaef98bd75191294bfb3a09d0d04d8\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\25c394cf0428364d5bb16f5e59fb821d\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\25c394cf0428364d5bb16f5e59fb821d\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\ebf8e41568596fdb7f204f27dd01a0ef\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\ebf8e41568596fdb7f204f27dd01a0ef\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\a075e6dd8aa436951706bdcfdebbbfc0\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\a075e6dd8aa436951706bdcfdebbbfc0\AndroidManifest.xml:21:5-23:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\e53dc7268eb5b766abd9991980702d97\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\e53dc7268eb5b766abd9991980702d97\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\eb3cb541bf14e09173af231846a010d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\eb3cb541bf14e09173af231846a010d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\958d8d38c6d5874ec5996cab58c85a63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\958d8d38c6d5874ec5996cab58c85a63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\0b1cfebe50df3fc040109e490c5fe1da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\0b1cfebe50df3fc040109e490c5fe1da\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MSI PRESTIGE PS42\Desktop\PRojet_Mob\GeoMab\app\src\main\AndroidManifest.xml
+provider#com.amitshekhar.debug.DebugDBInitProvider
+ADDED from [com.amitshekhar.android:debug-db:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1f06ca259429f4120c8c3cc310415c53\AndroidManifest.xml:12:9-16:40
+	android:enabled
+		ADDED from [com.amitshekhar.android:debug-db:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1f06ca259429f4120c8c3cc310415c53\AndroidManifest.xml:15:13-35
+	android:authorities
+		ADDED from [com.amitshekhar.android:debug-db:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1f06ca259429f4120c8c3cc310415c53\AndroidManifest.xml:14:13-71
+	android:exported
+		ADDED from [com.amitshekhar.android:debug-db:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1f06ca259429f4120c8c3cc310415c53\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\1f06ca259429f4120c8c3cc310415c53\AndroidManifest.xml:13:13-69
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\3bcbd9fdd6aeecd8833b32351a81b894\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\3bcbd9fdd6aeecd8833b32351a81b894\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\3bcbd9fdd6aeecd8833b32351a81b894\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\3bcbd9fdd6aeecd8833b32351a81b894\AndroidManifest.xml:9:13-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amitshekhar.android:debug-db-base:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\12b818bbeb2a1f684247996625550314\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db-base:1.0.6] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\12b818bbeb2a1f684247996625550314\AndroidManifest.xml:30:22-73
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5277ec07ce8a0ba762cb9577fd7f3d65\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5277ec07ce8a0ba762cb9577fd7f3d65\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5277ec07ce8a0ba762cb9577fd7f3d65\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5277ec07ce8a0ba762cb9577fd7f3d65\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MSI PRESTIGE PS42\.gradle\caches\transforms-2\files-2.1\5277ec07ce8a0ba762cb9577fd7f3d65\AndroidManifest.xml:24:13-79
